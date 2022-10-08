@@ -20,9 +20,9 @@ export default function Homepage({ history }) {
                     <h1>
                         <span>always Travel</span>
                         <div className="message">
-                            <div className="word1">Uniquely</div>
-                            <div className="word2">Safely</div>
-                            <div className="word3">with a smile</div>
+                            <div className="word1">UNIQUELY</div>
+                            <div className="word2">SAFELY</div>
+                            <div className="word3">WITH A SMILE</div>
                         </div>
                     </h1>
                 </div>
@@ -31,11 +31,11 @@ export default function Homepage({ history }) {
                     <svg width="277" height="62">
                         <defs>
                             <linearGradient id="grad1">
-                                <stop offset="0%" stopColor="#FF8282" />
-                                <stop offset="100%" stopColor="#E178ED" />
+                                <stop offset="0%" stopColor="#FF8283" />
+                                <stop offset="100%" stopColor="#E177ED" />
                             </linearGradient>
                         </defs>
-                        <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
+                        <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="280" height="50"></rect>
                     </svg>
                     <span >Get Started!</span>
                 </a>
